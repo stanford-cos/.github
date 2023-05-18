@@ -1,4 +1,5 @@
-![Image](https://github.com/stanford-cos/.github/assets/55762467/c4425e64-8c86-49f1-9089-038ab0c543ca)
+![Image 2](https://github.com/stanford-cos/.github/assets/55762467/e23dbaaa-759b-44e0-ac24-a2fd534c019d)
+
 
 The Stanford Center for Ocean Solutions catalyzes research, innovation and action to improve the health of the oceans for the people who depend on them most.
 
